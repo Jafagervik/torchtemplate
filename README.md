@@ -52,3 +52,10 @@ Set up and install your data inside here
 ### eval.py
 
 Run your own data here to only test
+
+
+##  Requirements
+
+1. You should have torch torchvision matplotlib, numpy and tqdm installed
+2. TK, qt or some way of showing matplotlib
+3. It's better to run with NVIDIA!
